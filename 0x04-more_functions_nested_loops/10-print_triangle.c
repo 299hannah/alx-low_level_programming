@@ -26,7 +26,7 @@ void print_triangle(int size)
 			ii++;
 		}
 
-		_putchart('\n')
+		_putchart('\n');
 		i++;
 	}
 	if (i == 1)
